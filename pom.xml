@@ -4,8 +4,13 @@
   <groupId>wipro</groupId>
   <artifactId>quick_start</artifactId>
   <packaging>jar</packaging>
+<<<<<<< HEAD
   <version>1.0</version>
   <name>archetype-simple</name>
+=======
+  <version>1.0-SNAPSHOT</version>
+  <name>quick_start</name>
+>>>>>>> f66574e6c006b0f92db5ceeedf528a8a03b5d885
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -15,6 +20,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<<<<<<< HEAD
    <distributionManagement>
     		<snapshotRepository>
       			<id>deployment</id>
@@ -28,4 +34,6 @@
     		</repository>
    </distributionManagement>
 
+=======
+>>>>>>> f66574e6c006b0f92db5ceeedf528a8a03b5d885
 </project>
